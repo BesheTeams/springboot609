@@ -26,3 +26,4 @@ springboot609基于java的个性化图书推荐系统
 ![image](https://github.com/user-attachments/assets/e2f4575e-9493-4f1e-99a7-d7da2a043d30)
 ![image](https://github.com/user-attachments/assets/b33530b2-6915-4bd0-adbb-d8254fa59906)
 ![image](https://github.com/user-attachments/assets/2905d5c4-37c9-4d83-afff-f6e332dbe5ec)
+![image](https://github.com/user-attachments/assets/ca9bbf87-7e20-49dd-81ef-517e8407878e)
